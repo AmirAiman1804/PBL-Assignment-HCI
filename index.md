@@ -1,1 +1,83 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PureFind - Clean Beauty Marketplace</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #e0f2e9;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #f9fbf9;
+            border-radius: 8px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #2d8659;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin: 10px 10px 10px 0;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #236b47;
+        }
+        .team-info {
+            background-color: #e8f5ee;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🌿 PureFind</h1>
+        <h2>Clean Beauty Marketplace - Project Showcase</h2>
+    </div>
+    
+    <div class="section">
+        <h2>Project Overview</h2>
+        <p>PureFind is an innovative e-commerce web application designed as a specialized marketplace dedicated to "Clean Beauty" and eco-friendly products. The platform serves as a digital bridge between environmentally conscious consumers and ethical beauty brands that prioritize sustainability in their manufacturing processes, ingredients, and packaging.</p>
+    </div>
+    
+    <div class="section">
+        <h2>Project Deliverables</h2>
+        
+        <h3>📱 Interactive Prototype</h3>
+        <p>Explore our medium-fidelity prototype designed for mobile platforms:</p>
+        <a href="[YOUR_FIGMA_LINK_HERE]" class="button" target="_blank">View Prototype</a>
+        
+        <h3>📊 Presentation Slides</h3>
+        <p>Download our 10-minute project presentation:</p>
+        <a href="[YOUR_SLIDES_LINK_HERE]" class="button" target="_blank">Download Slides</a>
+        
+        <h3>📄 Final Report</h3>
+        <p>Access our complete project report with design documentation:</p>
+        <a href="[YOUR_REPORT_LINK_HERE]" class="button" target="_blank">Download Report</a>
+    </div>
+    
+    <div class="team-info">
+        <h2>Project Team</h2>
+        <p><strong>Course:</strong> [Your Course Name/Number]</p>
+        <p><strong>Date:</strong> [Current Semester/Year]</p>
+        <p><strong>Contact:</strong> [Your Team Email]</p>
+    </div>
+</body>
+</html>
